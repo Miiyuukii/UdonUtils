@@ -1,7 +1,7 @@
 {
   "name": "un.tlp.udonutils",
   "displayName": "Un TLP UdonUtils",
-  "version": "11.3.0",
+  "version": "11.3.1",
   "description": "Contains the base scripts/tools for TLP packages as well as prefabs and potentially helpful scripts for VRChat worlds.",
   "gitDependencies": {},
   "legacyFolders": {
