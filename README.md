@@ -1,4 +1,4 @@
-# Udon Utils
+# Udon Utils (bump package.json version)
 
 [![Total downloads](https://img.shields.io/github/downloads/Guribo/UdonUtils/total?style=flat-square&logo=appveyor)](https://github.com/Guribo/UdonUtils/releases)
 
